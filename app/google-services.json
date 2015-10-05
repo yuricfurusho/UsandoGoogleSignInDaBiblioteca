@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "spry-cat-108914",
+    "project_number": "757716089610",
+    "name": "UsandoGoogleSignInDaBiblioteca"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757716089610:android:343f158b633ba7f9",
+        "client_id": "android:yuricfurusho.usandogooglesignindabiblioteca",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "yuricfurusho.usandogooglesignindabiblioteca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757716089610-ao11uo4gine6auf2g9vrodsci02tk6lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yuricfurusho.usandogooglesignindabiblioteca",
+            "certificate_hash": "c1665693dfde0bb9dced76d765b710dc1f3f0d41"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
